@@ -12,7 +12,8 @@
   },
   "scripts": {
     "lint": "eslint src --ext .ts",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "dev": "tsc -w"
   },
   "author": "",
   "license": "ISC"
